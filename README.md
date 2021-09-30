@@ -17,7 +17,7 @@ const Edu = {
         app-movel: {
             js: ["React native"]
         },
-        banco-de-dados: ["mongoDB", "MySql", "Firebase"]
+        dataBases: ["mongoDB", "MySql", "Firebase"]
     },
     arquitetura: ["Progressive web apps", "Single page applications"],
     focoAtual: "Desenvolvimento de app para android",
