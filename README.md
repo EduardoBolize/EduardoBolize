@@ -14,7 +14,7 @@ const Edu = {
         frontEnd: {
             js: ["ReactJs", "Vue"]
         }
-        app-movel: {
+        appMovel: {
             js: ["React native"]
         },
         dataBases: ["mongoDB", "MySql", "Firebase"]
