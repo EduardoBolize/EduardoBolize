@@ -13,7 +13,7 @@ const Edu = {
         },
         frontEnd: {
             js: ["ReactJs", "Vue"]
-        }
+        },
         appMovel: {
             js: ["React native"]
         },
