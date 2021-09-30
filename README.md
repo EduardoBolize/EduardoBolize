@@ -1,6 +1,6 @@
 ## Olá!! Eu sou o Eduardo Bolize
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Um pouco sobre mim...  
+### <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif?cid=ecf05e47e34ck6hmconca8op1896r9xttk0xoadap77iyis2&rid=giphy.gif&ct=g" width="50"> Um pouco sobre mim...  
 
 ```javascript
 const Edu = {
