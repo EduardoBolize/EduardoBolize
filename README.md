@@ -20,7 +20,7 @@ const Edu = {
         dataBases: ["mongoDB", "MySql", "Firebase"]
     },
     arquitetura: ["Progressive web apps", "Single page applications", "MVC"],
-    focoAtual: "Desenvolvimento de app para android",
+    focoAtual: "Desenvolvimento C# com arquitetura padrão MVC",
     fatoEngraçado: "Em terra de ponto e vírgula, prettier e eslint é Deus"
 };
 ```
