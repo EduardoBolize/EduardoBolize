@@ -19,7 +19,7 @@ const Edu = {
         },
         dataBases: ["mongoDB", "MySql", "Firebase", "NoSql", "MariaDB", "Oracle"]
     },
-    arquitetura: ["Progressive web apps", "Single page applications", "Model View Controller"],
+    arquitetura: ["Client-server", "Microservices", "Model View Controller"],
     focoAtual: "Desenvolvimento C# com arquitetura padrão MVC",
     fatoEngraçado: "Em terra de ponto e vírgula, prettier e eslint é Deus"
 };
