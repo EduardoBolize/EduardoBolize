@@ -25,15 +25,6 @@ const Edu = {
 ```
 
 <div align="center">
-  <a href="https://github.com/EduardoBolize">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoBolize&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoBolize&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-  </a>
-</div>
-
-<br>
-
-<div align="center">
   <img alt="JavaScript" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img alt="TypeScript" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img alt="Node.js" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
